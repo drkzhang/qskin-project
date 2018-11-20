@@ -1,0 +1,59 @@
+#post-content-input {
+    height: 100px;
+}
+
+.btn {
+     background-color: rgb(238,238,238);
+}
+
+#end-page {
+    background-color: rgb(238,238,238);
+    text-align: middle;
+    margin-left: 0;
+    margin-right: 0;
+    color: black;
+}
+
+#send-post {
+    margin-left: left;
+    margin-right: 0;
+    float: right;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.add-picture-btn{
+    padding-right: 10px;
+}
+
+input[type=file] {
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+}
+
+#picture-button{ 
+    color: rgb(155,155,155);
+    font-weight: bold;
+}
+
+#post-content-input {
+    margin:0;
+    border:none;
+    font-size: 2rem;
+}
+
+#post-title-input {
+    margin:0;
+    border:none;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.createpostcontainer {
+    border: 1px solid #eee;
+}
+
+.createpostcontainer .titleLine {
+    display: flex;
+}
