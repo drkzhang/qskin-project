@@ -1,18 +1,14 @@
-# qskin-project
-qskin project
-
-
 
 # qskin-project
-The is a project I did for a course.
+The is a project I did for a full stack developer course along with other students using agile tool jira for collaboration and communication and git for version control.
 
-There are functioning front and back end of the website built by reactjs and nodejs.
+There are functioning front and back end of the website built by reactjs and nodejs,mysql work bench is used for database.
 
 This website is a forum based website where patient can post skin pictures to the website for dermatologist to diagnose.
 
-Users are able to sign in, sign up, sign out, post , comment and like.
+Users are able to sign in, sign up, sign out, post a post with text or pictures or both, comment , reply to comment and like. Morover,user can change user name and password.
 
-The skills developed in building the website are mysql, sequelize, javascript, reactjs, nodejs, redux state, css, html, mvc model
+The skills and tools used in building the website are mysql, sequelize, javascript, reactjs, nodejs, redux state, css, html, mvc model
 
 ## Getting Started
 
@@ -23,77 +19,27 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-you need to install visual studio code, node js and npm for this project.
+Task 1:install python 3.6+ from https://www.python.org/downloads/
+Task 2:install nodejs lts version from https://nodejs.org/en/download/
+Task 3:install visual studio code from https://code.visualstudio.com/Download
+task 4:downlaod git https://git-scm.com/downloads
+task 5: mysql workbench https://www.mysql.com/products/workbench/
 ```
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
+1.clone this repo and install all softwares above
+2.open up both post and qskin folder and follow readme.md instruction there
+This is what the website looks like:
+![alt text](screenshots/qskin1.jpg "main page before signing in")
+![alt text](screenshots/qskin2.jpg "main page after signing in")
+![alt text](screenshots/qskin3.jpg "main page after signing in2")
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Go into both posts and qskin folder. All tests instructions are present there respectively.
 
-### Break down into end to end tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
