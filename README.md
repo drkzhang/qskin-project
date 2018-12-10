@@ -31,7 +31,9 @@ task 5: mysql workbench https://www.mysql.com/products/workbench/
 A step by step series of examples that tell you how to get a development env running
 
 1.clone this repo and install all softwares above
+
 2.open up both post and qskin folder and follow readme.md instruction there
+
 This is what the website looks like:
 ![alt text](screenshots/qskin1.jpg "main page before signing in")
 ![alt text](screenshots/qskin2.jpg "main page after signing in")
